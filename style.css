@@ -15,7 +15,7 @@ html{
 body{
    
     display: flex;
-    background-image:url("backgroundenfermeira.png")
+    background-image: url(backgroundenfermeira.png);
     background-repeat:no-repeat;
     background-size:cover;
     animation: animaçao;
