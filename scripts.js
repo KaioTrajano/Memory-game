@@ -154,7 +154,8 @@ function finish(){
       
        })
 
-  
+       let board = document.getElementById("cardboard")
+       board.style.filter = "blur(0)"
        let background = document.querySelector("body")
       
       background.style.backgroundImage = "url(" + images[Math.round(Math.random() * 5)] + ")";
