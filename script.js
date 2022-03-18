@@ -12,8 +12,8 @@ let cardHTML = "";
 
 imgs.forEach(img => {
   cardHTML += `<div id="teste" class="memory-card" data-card="${img}">
-    <img class="front-face" src="/_imagens/${img}"/>
-    <img class="back-face" src="/_imagens/lolcard.svg">
+    <img class="front-face" src="${img}"/>
+    <img class="back-face" src="lolcard.svg">
   </div>`;
 });
 
@@ -128,11 +128,11 @@ function congratulation(){
 const quantidade = document.querySelectorAll(".memory-card")
 
 var images = [
-       "_imagens/backgroundakali.png",
-       "_imagens/backgroundjayce.svg",
-       "_imagens/backgroundjinx.svg",
-       "_imagens/backgroundcaitlyn.svg",
-       "_imagens/enfermeiraakali.svg",
+       "backgroundakali.png",
+       "backgroundjayce.svg",
+       "backgroundjinx.svg",
+       "backgroundcaitlyn.svg",
+       "enfermeiraakali.svg",
        
        
        
