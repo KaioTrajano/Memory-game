@@ -111,7 +111,7 @@ function congratulation(){
   let background = document.querySelector("body")
 
   
-  placardepontuação.innerHTML =  pontuação + "pts"
+  placardepontuação.innerHTML =  pontuação + " pts"
   congratulation.style.display = "block"
   playagain.addEventListener("click", finish)
   congratulation.classList.add("congrats");
