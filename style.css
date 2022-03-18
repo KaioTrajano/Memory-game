@@ -72,6 +72,7 @@ transform: translate(-50%, -50%);
     padding: 0px;
     cursor: pointer;
     object-fit: cover;
+     -webkit-backface-visibility: hidden;
     
     
 }
