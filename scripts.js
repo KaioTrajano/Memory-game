@@ -109,12 +109,14 @@ function congratulation(){
   let playagain = document.getElementById("playagain")
   let placardepontuação = document.getElementById("pontuaçao")
   let background = document.querySelector("body")
+  let board = document.getElementById("cardboard")
 
   
   placardepontuação.innerHTML =  pontuação + " pts"
   congratulation.style.display = "block"
   playagain.addEventListener("click", finish)
   congratulation.classList.add("congrats");
+   board.style.filter = "blur(2.2px)"
     setTimeout(() => congratulation.style.animation = "animaçao 0.5s", );
 
     
