@@ -13,11 +13,11 @@ html{
 
 
 body{
-    width: 105vh;
+   
     display: flex;
-    background-color: white;
-    background-image:url("backgroundenfermeira.svg")
-    background-size: cover;
+    background-image:url("backgroundenfermeira.png")
+    background-repeat:no-repeat;
+    background-size:cover;
     animation: animaçao;
     transition: 2s;
     
