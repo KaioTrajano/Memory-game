@@ -15,7 +15,7 @@ html{
 body{
    
     display: flex;
-    background-image: url(backgroundenfermeira.png);
+    background-image: url(backgrounionia.png);
     background-repeat:no-repeat;
     background-size:cover;
     animation: animaçao;
@@ -31,7 +31,7 @@ height: 640px;
 display: flex;
 flex-wrap: wrap;
 position: absolute;
-top: 50%;
+top: 48%;
 left: 30%;
 transform: translate(-50%, -50%); 
 
