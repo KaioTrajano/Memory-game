@@ -136,7 +136,7 @@ var images = [
        "backgroundcaitlyn.png",
        "backgroundjinx.png",
        "backgroundjayce.png",
-       "backgroundakali.png",
+       "backgroundakali.png"
        
        
        
