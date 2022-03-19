@@ -18,10 +18,7 @@ body{
     background-image: url(backgroundionia.png);
     background-repeat:no-repeat;
     background-size:cover;
-    animation: animaçao;
-    transition: 2s;
-    
-    
+
    
 }
 
