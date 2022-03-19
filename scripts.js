@@ -130,11 +130,13 @@ function congratulation(){
 const quantidade = document.querySelectorAll(".memory-card")
 
 var images = [
+       "backgrounionia.png",
+       "backgroundahri.png",
+       "backgroundvi.png",
+       "backgroundcaitlyn.png",
+       "backgroundjinx.png",
+       "backgroundjayce.png",
        "backgroundakali.png",
-       "backgroundjayce.svg",
-       "backgroundjinx.svg",
-       "backgroundcaitlyn.svg",
-       "enfermeiraakali.svg",
        
        
        
