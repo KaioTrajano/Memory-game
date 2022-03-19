@@ -15,7 +15,7 @@ html{
 body{
    
     display: flex;
-    background-image: url(backgrounionia.png);
+    background-image: url(backgroundionia.png);
     background-repeat:no-repeat;
     background-size:cover;
     animation: animaçao;
