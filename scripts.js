@@ -161,7 +161,7 @@ function finish(){
        board.style.filter = "blur(0)"
        let background = document.querySelector("body")
       
-      background.style.backgroundImage = "url(" + images[Math.round(Math.random() * 5)] + ")";
+      background.style.backgroundImage = "url(" + images[Math.round(Math.random() * 7)] + ")";
 
   }
 
